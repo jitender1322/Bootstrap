@@ -1,0 +1,43 @@
+	@media screen and (min-width:992px) {
+		.nav-item {
+			line-height: 80px;
+		}
+	}
+
+	.carousel-inner {
+		height: 480px;
+	}
+
+	.carousel-item {
+		height: 100%;
+	}
+
+	.carousel-item img {
+		width: 100%;
+		object-fit: cover;
+	}
+
+	.box {
+		display: flex;
+	}
+
+	.b-1 {
+		display: flex;
+		padding: 10px;
+		margin: 10px;
+		box-shadow: 0 0.125rem 0.25rem #00000052 !important;
+
+	}
+
+	.b-1 p {
+		margin: 10px;
+	}
+
+	.b-1 i {
+		font-size: 25px;
+		margin: 20px;
+	}
+
+	.col-2 img {
+		width: 80%;
+	}
